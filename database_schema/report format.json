@@ -1,0 +1,52 @@
+{
+  "_id": {
+    "$oid": "684d6caf851a32025d047f08"
+  },
+  "reportType": "lost",
+  "userId": "684d6c3d851a32025d047f04",
+  "itemDetails": {
+    "title": "Watch",
+    "description": "Lost a Gold Colored Rolex Watch With some scratches on it with green color in center  ",
+    "category": "Accessories",
+    "subCategory": "Jewelry",
+    "itemType": "Watch",
+    "primaryColor": "Gold",
+    "secondaryColor": "Green",
+    "images": [
+      "/uploads/Lost/684d6caf851a32025d047f08/1749904558586_report.jpg"
+    ]
+  },
+  "locationDetails": {
+    "lastSeenLocation": {
+      "lat": 37.4220936,
+      "lng": -122.083922,
+      "city": "Mountain View",
+      "area": "1600"
+    },
+    "lostDate": {
+      "$date": "2025-06-14T12:34:16.412Z"
+    }
+  },
+  "status": "matched",
+  "id": "684d6caf851a32025d047f08",
+  "createdAt": {
+    "$date": "2025-06-14T12:35:59.537Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T12:35:59.537Z"
+  },
+  "__v": 0,
+  "matchDetails": [
+    {
+      "report_id": "684d6d36851a32025d047f0b",
+      "score": 0.95365,
+      "matched_on": "2025-06-16T22:38:17.850985"
+    }
+  ],
+  "matchedReportIds": [
+    "684d6d36851a32025d047f0b"
+  ],
+  "fraud": false,
+  "fraud_checked": true,
+  "fraud_reason": ""
+}

@@ -1,0 +1,19 @@
+{
+  "_id": {
+    "$oid": "684d6c3d851a32025d047f04"
+  },
+  "firstname": "user",
+  "lastname": "userr",
+  "username": "useruser",
+  "email": "user@example.com",
+  "password": "$2b$10$ALjsjrBYw6juBk/wNXy68Orv81mp2N6RfMx.8sYQ9bm9YKujarVUW",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-06-14T12:34:05.333Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T12:58:29.899Z"
+  },
+  "__v": 0,
+  "fraudUser": "false"
+}
