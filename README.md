@@ -12,7 +12,6 @@ This is my graduation project from the Faculty of Computers and Information Tech
 - 📱 **Mobile App** built with React Native featuring GPS and reporting features
 - 🧠 **RESTful APIs** using Flask & Node.js
 - 📊 **Admin Dashboard** for managing users, reports, analytics, and fraud alerts
-- ☁️ Hosted on Google Cloud with Docker and MongoDB as the backend store
 
 ---
 
