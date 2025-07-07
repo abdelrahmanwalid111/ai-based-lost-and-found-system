@@ -23,4 +23,3 @@ This is my graduation project from the Faculty of Computers and Information Tech
 | Backend         | Flask, Node.js, RESTful APIs, MongoDB, Docker                                 |
 | Mobile App      | React Native, Expo, Axios, AsyncStorage                                       |
 | Dashboard       | React, Power BI (for analytics)                                               |
-| DevOps/Cloud    | Git, Google Cloud Platform, Docker    
